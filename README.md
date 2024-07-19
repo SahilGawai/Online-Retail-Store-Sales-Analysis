@@ -1,4 +1,5 @@
 #Sales Analysis Insight Project
+
 Project Overview
 This project involves analyzing sales data to extract valuable insights that can help in strategic decision-making. The project leverages SQL for data extraction and transformation, and Power BI for data visualization and dashboard creation.
 
